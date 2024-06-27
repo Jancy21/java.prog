@@ -1,0 +1,14 @@
+package demo;
+
+public class democode {
+
+	public democode() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		System.out.println("hello");
+		System.out.println("good Morning");
+	}
+
+}
