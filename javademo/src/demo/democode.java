@@ -9,6 +9,7 @@ public class democode {
 	public static void main(String[] args) {
 		System.out.println("hello");
 		System.out.println("good Morning");
+		System.out.println("have a good day");
 	}
 
 }
