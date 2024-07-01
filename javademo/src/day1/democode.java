@@ -1,4 +1,4 @@
-package demo;
+package day1;
 
 public class democode {
 
